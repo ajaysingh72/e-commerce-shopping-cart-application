@@ -51,13 +51,16 @@ ecommerce-app/
       globals.css     # Global styles
   .gitignore          # Git ignore file
    README.md           # Project documentation
-   package.json        # Project configuration and dependencies```
+   package.json        # Project configuration and dependencies
+```
+
 
 #Usage
 + Browse the product listing page to view available products.
 - Click the "Add to Cart" button to add products to your shopping cart.
 + Navigate to the cart page to view, adjust, or remove items.
 - Apply discount codes (if available) and see the total price update accordingly.
+
 
 ### Run the development server:
 `npm run dev`
