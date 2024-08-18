@@ -35,19 +35,22 @@ npx tailwindcss init -p
 after creation, the project should look like this.
 
 '''
-ecommerce-app
-├── components
-│   ├── Navbar.js       # Navigation bar component
-│   ├── ProductCard.js  # Component for displaying individual products
-│   ├── CartItem.js     # Component for displaying items in the cart
-├── pages
-│   ├── index.js        # Home page (product listing)
-│   ├── cart.js         # Shopping cart page
-├── public
-│   ├── products.json   # Local JSON file with product data
-├── styles
-│   ├── globals.css     # Global styles
-├── .gitignore          # Git ignore file
-├── README.md           # Project documentation
-└── package.json        # Project configuration and dependencies
-'''
+ecommerce-app/
+  .next/
+  node_modules/
+  src/
+    components/
+       Navbar.js       # Navigation bar component
+       ProductCard.js  # Component for displaying individual products
+       CartItem.js     # Component for displaying items in the cart
+    pages/
+       index.js        # Home page (product listing)
+       cart.js         # Shopping cart page
+    public/
+       products.json   # Local JSON file with product data
+    styles/
+      globals.css     # Global styles
+  .gitignore          # Git ignore file
+   README.md           # Project documentation
+   package.json        # Project configuration and dependencies
+
