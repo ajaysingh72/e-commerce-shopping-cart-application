@@ -11,7 +11,7 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
   - See the subtotal, apply discounts, and view the total price
 - **Responsive Design**: Optimized for various screen sizes.
 
-## Tech Stack
+## Technical Specifications
 
 - **Frontend Framework**: Next.js (React)
 - **Styling**: Tailwind CSS
@@ -19,3 +19,6 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
 
 ## Installation and Setup
 
+1. **Project Setup:**
+   1.1 *Install Next.js*
+   'npx create-next-app@latest ecommerce-app'
