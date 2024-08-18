@@ -1,4 +1,4 @@
-# E-Commerce Shopping Cart Application
+![Screenshot (60)](https://github.com/user-attachments/assets/f0b99785-3848-4f6e-b388-cc70be7571e4)# E-Commerce Shopping Cart Application
 
 This is a simple e-commerce shopping cart application built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). The application allows users to browse a list of products, add items to a shopping cart, adjust quantities, remove items, and apply discounts.
 
@@ -27,9 +27,9 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
 `cd ecommerce-app`
 
 #### 1.2 Install Dependencies
-`npm install tailwindcss@latest postcss@latest autoprefixer@latest
+``npm install tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcss init -p
-`
+``
 
 ## Folder Structure
 after creation, the project should look like this.
@@ -55,7 +55,7 @@ ecommerce-app/
 ```
 
 
-#Usage
+# Usage
 + Browse the product listing page to view available products.
 - Click the "Add to Cart" button to add products to your shopping cart.
 + Navigate to the cart page to view, adjust, or remove items.
@@ -68,3 +68,45 @@ ecommerce-app/
 ### Access the application:
 * Open http://localhost:3000 with your browser to see the application.
 
+# Screenshots
+
+Here are some screenshots that demonstrates how the website works:
+
+# 1. Product Listing Page:
+
+Screenshot (1)
+
+![Screenshot (59)](https://github.com/user-attachments/assets/262c0dbe-0232-4b3b-b946-9582e3db5044)
+
+Screenshot (2)
+
+![Screenshot (60)](https://github.com/user-attachments/assets/a7c98cc3-7e09-4608-86b3-7c938475a994)
+
+## Mobile View:
+Screenshot (3)
+
+![Screenshot (50)](https://github.com/user-attachments/assets/b4d2a3ed-5fc9-4d73-9f8b-f46aebfd7a32) 
+
+# 2. Cart Page:
+Screenshot (4)
+![Screenshot (56)](https://github.com/user-attachments/assets/7b39388a-872e-4a65-8264-0bbf4870290c) 
+
+Screenshot (5)
+![Screenshot (54)](https://github.com/user-attachments/assets/4b693e47-d8d6-452b-8dbc-25a5fb2ee4f4)
+
+Screenshot (6)
+![Screenshot (58)](https://github.com/user-attachments/assets/5b1cdb54-e796-4c47-8848-078dcd289712)
+
+## Mobile View:
+Screenshot (7)
+
+![Screenshot (52)](https://github.com/user-attachments/assets/1dc63e13-fd85-4c05-ae2f-22b57fd91714)
+
+Screenshot (8)
+![Screenshot (53)](https://github.com/user-attachments/assets/9eaea6ff-e81c-4648-9d1a-c302d57da3db)
+
+
+# Acknowledgements
+* ReactJS (Next.js)
++ Tailwind CSS
+- Flipkart for design inspiration
