@@ -27,9 +27,9 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
 `cd ecommerce-app`
 
 #### 1.2 Install Dependencies
-``npm install tailwindcss@latest postcss@latest autoprefixer@latest
-npx tailwindcss init -p
-``
+`npm install tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init -p`
+
 
 ## Folder Structure
 after creation, the project should look like this.
