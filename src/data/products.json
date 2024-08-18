@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Watch",
+    "image": "/images/smartwatch.jpg",
+    "price": 199.99,
+    "description": "A stylish smart watch with multiple health tracking features."
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds",
+    "image": "/images/earbuds.jpg",
+    "price": 99.99,
+    "description": "High-quality sound with noise cancellation."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "image": "/images/speaker.jpg",
+    "price": 49.99,
+    "description": "Portable speaker with excellent sound quality."
+  },
+  {
+    "id": 4,
+    "name": "Fitness Tracker",
+    "image": "/images/fitness-tracker.jpg",
+    "price": 79.99,
+    "description": "Track your steps, heart rate, and more."
+  },
+  {
+    "id": 5,
+    "name": "Drone",
+    "image": "/images/drone.jpg",
+    "price": 299.99,
+    "description": "Capture stunning aerial footage."
+  },
+  {
+    "id": 6,
+    "name": "VR Headset",
+    "image": "/images/vr-headset.jpg",
+    "price": 399.99,
+    "description": "Experience immersive virtual reality."
+  }
+]
