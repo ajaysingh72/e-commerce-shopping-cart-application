@@ -21,4 +21,4 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
 
 1. **Project Setup:**
    1.1 *Install Next.js*
-   'npx create-next-app@latest ecommerce-app'
+'npx create-next-app@latest ecommerce-app'
