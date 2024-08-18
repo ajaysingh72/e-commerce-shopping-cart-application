@@ -13,7 +13,7 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
 
 ## Technical Specifications
 
-- **Frontend Framework**: Next.js (React)
+- **Frontend Framework**:  ReactJS (Next.js)
 - **Styling**: Tailwind CSS
 - **Data Source**: Local JSON file or open-source API (configurable)
 
@@ -21,20 +21,19 @@ This is a simple e-commerce shopping cart application built with [Next.js](https
 
 ### 1. Project Setup:
 #### 1.1 Install Next.js
-'npx create-next-app@latest ecommerce-app'
+`npx create-next-app@latest ecommerce-app`
 
 #### 1.2 Navigate to the project directory:
-'cd ecommerce-app'
+`cd ecommerce-app`
 
 #### 1.2 Install Dependencies
-'npm install tailwindcss@latest postcss@latest autoprefixer@latest
+`npm install tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcss init -p
-'
+`
 
 ## Folder Structure
 after creation, the project should look like this.
-
-'''
+```
 ecommerce-app/
   .next/
   node_modules/
@@ -52,5 +51,17 @@ ecommerce-app/
       globals.css     # Global styles
   .gitignore          # Git ignore file
    README.md           # Project documentation
-   package.json        # Project configuration and dependencies
+   package.json        # Project configuration and dependencies```
+
+#Usage
++ Browse the product listing page to view available products.
+- Click the "Add to Cart" button to add products to your shopping cart.
++ Navigate to the cart page to view, adjust, or remove items.
+- Apply discount codes (if available) and see the total price update accordingly.
+
+### Run the development server:
+`npm run dev`
+
+### Access the application:
+* Open http://localhost:3000 with your browser to see the application.
 
