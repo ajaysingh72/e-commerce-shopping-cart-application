@@ -1,4 +1,4 @@
-![Screenshot (60)](https://github.com/user-attachments/assets/f0b99785-3848-4f6e-b388-cc70be7571e4)# E-Commerce Shopping Cart Application
+# E-Commerce Shopping Cart Application
 
 This is a simple e-commerce shopping cart application built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). The application allows users to browse a list of products, add items to a shopping cart, adjust quantities, remove items, and apply discounts.
 
